@@ -376,7 +376,7 @@ p, body {
 
 /* -- Page */
 .title-page {
-    font-size: var(--font-size-8);
+    font-size: var(--font-size-2);
     line-height: var(--line-height-2);
     margin-top: 0;
     margin-bottom: var(--baseline-1);
